@@ -1,2 +1,1 @@
-# my_first_project
-My first project using python
+This is my first project on GitHub, and I'm following the tradition of every programmer
